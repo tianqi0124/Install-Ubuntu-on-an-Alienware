@@ -2,9 +2,13 @@
 How to install ubuntu on a Alienware
 
 Step 1: create a bootable Ubuntu USB stick on Windows 10
+
 Step 1.1 : Download ubuntu 16.04 from the wbesite https://www.ubuntu.com/download/desktop
+
 step 1.2 : Download and install UltraISO
+
 step 1.3 : Plug in a 4GB+ USB stick
+
 step 1.4 : Open UltraISO and open Ubuntu 16.04 iso
 
 
