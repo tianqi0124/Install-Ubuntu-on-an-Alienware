@@ -19,23 +19,36 @@ step 1.5 : UltraISO -> Bootable -> Write Disk Image
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/3.png)
 
-step 1.6 : After writing, press Xpress Boot->Write New Drive Boot Sector -> Syslinux
+step 1.6 (not necessary): After writing, press Xpress Boot->Write New Drive Boot Sector -> Syslinux
 
 
 Step 2: Create a new SSD partition for Ubuntu
 
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/4.png)
 
+This depends on your disk, it is better more than 100G.
 
 Step 3: change BIOS settings
 
+step 3.1: Reboot, press F2 into BIOS interface.
 
+step 3.2: Swith to Advance Panel, change SATA Operation to AHCI fromn RAID on.
 
+Step 3.3: Swith to Boot Panel, Change secure boot to disabled.
 
 step 4: install Ubuntu 16.04
 
+Step 4.1:Reboot, press F12 to boot USB stick.
 
-step 5: modify some 
+Step 4.2:Create some partitions for installing.
 
+1. (/swap) mount point, this means the virtual memory, if your memory is less than 8G, you should double it. If your memory is 4G, you can set it to 8000M, and if your memory is 16G, set it to 16000M.
 
-step 6: change BIOS setting
+2. (/ ) mount point, from several GB to 20G is Ok, it depends on your disk.
+
+3. (/home) mount point, the rest space.
+
+4. Device for boot loader installtion:
+
+you can select where your windows boot.
 
