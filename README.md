@@ -34,11 +34,32 @@ step 3.1: Reboot, press F2 into BIOS interface.
 
 step 3.2: Swith to Advance Panel, change SATA Operation to AHCI fromn RAID on.
 
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/8.jpeg)
+
 Step 3.3: Swith to Boot Panel, Change secure boot to disabled.
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/9.jpeg)
+
+(The Boot Option #1 is ubuntu is because that I have install ubunutu on my machine.)
 
 step 4: install Ubuntu 16.04
 
 Step 4.1:Reboot, press F12 to boot USB stick.
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/14.jpg)
+
+just click on install Ubuntu.
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/5.png)
+
+I do not recommand to mark the two.
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/6.png)
+
+click on something else
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/7.png)
+
 
 Step 4.2:Create some partitions for installing.
 
