@@ -94,4 +94,7 @@ step 5.2 Add "nomodeset", then the line looks like: ...... nomodeset quiet splas
 
 Step 6. Stop nouveau
 
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/19.png)
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/20.png)
 
