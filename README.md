@@ -11,7 +11,7 @@ step 1.3 : Plug in a 4GB+ USB stick
 
 step 1.4 : Open UltraISO and open Ubuntu 16.04 iso
 
-![image](http://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/1.jpeg)
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/1.jpeg)
 
 step 1.5 : UltraISO -> Bootable -> Write Disk Image
 
