@@ -15,9 +15,9 @@ step 1.4 : Open UltraISO and open Ubuntu 16.04 iso
 
 step 1.5 : UltraISO -> Bootable -> Write Disk Image
 
-https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/2.jpeg
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/2.jpeg)
 
-https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/3.jpeg
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/3.jpeg)
 
 step 1.6 : After writing, press Xpress Boot->Write New Drive Boot Sector -> Syslinux
 
