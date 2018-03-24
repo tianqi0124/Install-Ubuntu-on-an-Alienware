@@ -65,9 +65,16 @@ Step 4.2:Create some partitions for installing.
 
 1. (/swap) mount point, this means the virtual memory, if your memory is less than 8G, you should double it. If your memory is 4G, you can set it to 8000M, and if your memory is 16G, set it to 16000M.
 
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/16.png)
+
+
 2. (/ ) mount point, from several GB to 20G is Ok, it depends on your disk.
 
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/17.png)
+
 3. (/home) mount point, the rest space.
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/15.png)
 
 4. Device for boot loader installtion:
 
