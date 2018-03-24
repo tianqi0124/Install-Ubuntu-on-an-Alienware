@@ -76,7 +76,19 @@ Step 4.2:Create some partitions for installing.
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/15.png)
 
-4. Device for boot loader installtion:
+4. Device for boot loader installtion: you should choose the one your Windows boot.
 
-you can select where your windows boot.
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/18.png)
+
+5. Then install.
+
+Step 5. Shut down the graphics driver.
+
+step 5.1 After installing the Ubuntu, you need to reboot it. Then press "E".
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/13.jpeg)
+
+step 5.2 Add "nomodeset", then the line looks like: ...... nomodeset quiet splash
+
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/12.jpeg)
 
