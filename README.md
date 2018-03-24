@@ -46,7 +46,7 @@ step 4: install Ubuntu 16.04
 
 Step 4.1:Reboot, press F12 to boot USB stick.
 
-![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/14.jpg)
+![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/14.JPG)
 
 just click on install Ubuntu.
 
