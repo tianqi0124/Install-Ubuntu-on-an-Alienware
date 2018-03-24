@@ -1,4 +1,4 @@
-# Install-Ubuntu-on-an-Alienware
+# Install-Ubuntu-on-an-Alienware(with Nvidia Drivers)
 How to install ubuntu on a Alienware
 
 Step 1: create a bootable Ubuntu USB stick on Windows 10
@@ -76,7 +76,7 @@ Step 4.2:Create some partitions for installing.
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/15.png)
 
-4. Device for boot loader installtion: you should choose the one your Windows boot.
+4. Device for boot loader installtion: you should choose the one your Windows boot.(If you only install Ubunutu in your machine, you also need to create a (/boot) mount point, it needs 500M space. Then select it for this step.)
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/18.png)
 
@@ -91,4 +91,7 @@ step 5.1 After installing the Ubuntu, you need to reboot it. Then press "E".
 step 5.2 Add "nomodeset", then the line looks like: ...... nomodeset quiet splash
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/12.jpeg)
+
+Step 6. Stop nouveau
+
 
