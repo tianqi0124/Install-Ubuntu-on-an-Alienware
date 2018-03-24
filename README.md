@@ -92,9 +92,12 @@ step 5.2 Add "nomodeset", then the line looks like: ...... nomodeset quiet splas
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/12.jpeg)
 
-Step 6. Stop nouveau
+Step 6. Stop nouveau and install nvidia driver
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/19.png)
 
 ![image](https://github.com/tianqi0124/Install-Ubuntu-on-an-Alienware/blob/master/image/20.png)
 
+
+Also, you cna use this link http://www.linuxandubuntu.com/home/how-to-install-latest-nvidia-drivers-in-linux
+to install the driver, and you may also need to stop nouveau at first.
